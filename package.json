@@ -17,7 +17,7 @@
     "needle": "^2.4.0",
     "selenium-webdriver": "^4.0.0-alpha.5",
     "sys": "0.0.1",
-    "xlsx": "^0.15.2",
+    "xlsx": "^0.17.0",
     "xmlwriter": "^1.0.2"
   }
 }
